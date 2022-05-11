@@ -10,6 +10,7 @@ fermento biológico fresco_1,8%
 
 água_36,1%
 
+<<<<<<< HEAD
 modo preparo
 
 na 1ª velocidade;
@@ -23,4 +24,25 @@ na 1ª velocidade;
 na 2ª velocidade;
 
 -cilindrar a massa até formação da rede de glutén.
+=======
+-retirar a massa da masseira;
+
+-dividir a massa em blocos;
+
+-deixar descansar;
+
+-dividir em peças no tamanho desejado,
+
+-modelar na modeladora;
+
+-acondicionar em esteiras;
+
+-fermentar;
+
+-cortar pestana;
+
+-assar;
+
+
+>>>>>>> parte-final
 
